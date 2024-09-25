@@ -12,7 +12,7 @@ Hva vi venter, la oss start!
 
 
 
-1. [ Sette opp Raspberry Pi og installere Ubuntu](/Sette_opp_Raspberry_Pi/READ_FIRST.md)
+1. [ Sette opp Raspberry Pi og installere Ubuntu](/Sette_opp_Raspberry_Pie/READ_FIRST.md)
 
 2. [Installere SSH, MARIADB OG PYTHON](/Installere_programvare/READ_FIRST.md)
 
