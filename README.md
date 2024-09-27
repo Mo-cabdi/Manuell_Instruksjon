@@ -2,7 +2,7 @@
 **Husk. Hvis du har problem, google er din venn!**
 
 ``` 
-I denne manuell skal du lær steg og steg om alt fra hvordan man sette opp Raspberry Pi og installere Operating System (Ubuntu), Installere SSH brannmur, Installere MariaDB og sette opp Databaser, lære litt Python ved lage en enkelt telefonkatalog og installere Git til å lagre din projekter i Github.
+I denne manuell skal du lær steg og steg om alt fra hvordan man sette opp Raspberry Pi og installere Operating System (Ubuntu), Installere SSH brannmur, Installere MariaDB og sette opp Databaser. Lære litt Python ved lage en enkelt telefonkatalog og installere Git til å lagre din projekter i Github.
 ```
 
 ```
