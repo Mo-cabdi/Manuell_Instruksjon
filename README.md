@@ -15,6 +15,10 @@ Ikke bekymre deg. Du kommer til å få et grep på slutten 😊
 
 Hva vi venter, la oss start!
 ```
+**Installer disse programvare**
+* Installere [Python](https://www.python.org/downloads/) eller linken https://www.python.org/downloads/
+* Installere [Git](https://git-scm.com/downloads) eller linken https://git-scm.com/downloads
+
 
 *NB. Gjør det i rekkefølget*
 

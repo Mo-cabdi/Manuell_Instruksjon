@@ -18,7 +18,7 @@ exit
 mkdir Kode "Lage mappe"
 ```
 
-3. Bruk CD kommando til å gå i mappe
+3. Bruk CD kommando til å gå i mappen
 ```bash
 cd Kode
 ```
@@ -28,8 +28,15 @@ git clone url "eksempel: git clone https://github.com/bruker007/Kode.git"
 ```
 ---
 
+#### Logg inn på servere (Pi) via cmd i local Pcen din
 
-5. Logg inn den nye brukeren.
+5. 
+```bash
+ssh brukernavn@ip-adresse "eksempel: ssh bruker1@10.2.2.245
+```
+
+
+6. Logg inn den nye mariaDB brukeren.
 
     Også skrive inn passordret til brukeren.
 ```bash
@@ -37,13 +44,13 @@ mariadb -u [brukernavn] -p
 ```
 ---
 
-9. Åpnet Kode mappen i Filutforsker og deretter åpnet alle skript filene i notisblokk.
+7. Åpnet Kode mappen i Filutforsker og deretter åpnet alle skript filene i notisblokk eller visual studio.
 
-10. Scriptene må kopieres og kjøres i rekkefølgen angitt av tallene.
+8. Scriptene må kopieres og kjøres i rekkefølgen angitt av tallene.
 
 ##### Du har lagt din telefonkatalogen i database! Gratulerer🙌
 
-11. Test deg og forsøk hva disse kommandoene gjør:
+9. Test deg og forsøk hva disse kommandoene gjør:
 ```bash
 SELECT * FROM person;
 
@@ -58,7 +65,7 @@ VALUES ('Erik', 'Perik', '12345678');
 
 ```
 
-12. Prøve å legg en person til telefonkatalogen.
+10. Prøve å legg en person til telefonkatalogen.
 
 
 
