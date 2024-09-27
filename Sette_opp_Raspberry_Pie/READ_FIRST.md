@@ -1,5 +1,7 @@
 ## Sette opp Raspberry Pi og installere Ubuntu
 
+**NB:** Hopp til neste steg om du settet opp Ubunto
+
 #### Bygge opp Raspberry Pi
 
 1. Gå til og følge den [videon](https://www.youtube.com/watch?v=S9CYlpbSz-c) til å fysisk sette opp din Raspberry Pie.
@@ -18,7 +20,8 @@
 
 #### Sette opp Serveren
 
-1. Kjør disse kommandoen til å sette opp serveren
+1. Trykk **CTRT + ALT + T** til å terminalen 
+2. Kjør disse kommandoen til å sette opp serveren
 
 ``` CONSOLE
 sudo apt update
