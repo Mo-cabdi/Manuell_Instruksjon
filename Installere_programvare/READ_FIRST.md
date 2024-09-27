@@ -51,5 +51,3 @@ sudo mysql_secure_installation
 ```
 
 Good jobb, da er du klar til [neste_steg](/Sette_opp_Database/READ_FIRST.md).
-
-Good jobb, da er du klar til [neste_steg](/Sette_opp_Database/READ_FIRST.md).
