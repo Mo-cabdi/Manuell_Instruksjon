@@ -7,6 +7,10 @@
 
 #### Sett opp brannmur med UFW (uncomplicated Firewall)
 
+Brannmuren tillater andre maskiner å snakke med programmer på serveren ved å åpne porten
+("husnummeret") som programmet kjører på. Her åpner vi port 22, som er den porten SSH kommuniserer på.
+
+
 * Installere UFW 
 ```bash
 sudo apt install ufw    "Installere UFW"
@@ -17,6 +21,11 @@ sudo ufw status         "Sjekke statusen til brannmur"
 
 
 #### Installere SSH og skru den på
+
+
+SSH er et program som lar oss logge på en datamaskin fra en annen datamaskin via nettverket. Vi har
+installert det i steget over, men må også starte det, og sørge for at det starter automatisk hver gang vi skrur
+på serveren.
 
 ```bash
 sudo apt install openssh-server   "Installere SSH"
@@ -32,10 +41,15 @@ ip a   "Finn IPen din. Du trenger til å bruker SSH"
 ---
 
 
-#### Installere MariaDB
+#### Installere MariaDB, python og git
 
 ```bash
-sudo apt install mariadb-server   "Installere MariaDB"
-sudo systemctl enable ssh         "Aktivere SSH"
-sudo systemctl start ssh          "starter SSH"
+sudo apt install python3-pip         
+sudo apt install git
+sudo apt install mariadb-server
+sudo mysql_secure_installation     
 ```
+
+Good jobb, da er du klar til [neste_steg](/Sette_opp_Database/READ_FIRST.md).
+
+Good jobb, da er du klar til [neste_steg](/Sette_opp_Database/READ_FIRST.md).

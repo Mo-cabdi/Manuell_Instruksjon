@@ -1,6 +1,6 @@
 ## Sette opp Raspberry Pi og installere Ubuntu
 
-**NB:** Hopp til neste steg om du settet opp Ubunto
+**NB:** Hopp over til neste steg om du settet opp Ubunto
 
 #### Bygge opp Raspberry Pi
 
@@ -18,7 +18,7 @@
 3. Legge SD-kortet tilbake i Raspberry pi-en og startet det.
 4. Følge instruksjonen til å sette opp Raspberry pi-en og lage en bruker.
 
-#### Sette opp Serveren
+#### Installere alle oppdatering for programvare.
 
 1. Trykk **CTRT + ALT + T** til å terminalen 
 2. Kjør disse kommandoen til å sette opp serveren
@@ -28,4 +28,4 @@ sudo apt update
 sudo apt upgrade
 ```
 
-Good jobb, da er du klar til neste steg.
+Good jobb, da er du klar til [neste_steg](/Installere_programvare/READ_FIRST.md).
