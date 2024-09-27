@@ -4,7 +4,7 @@
 
 #### Bygge opp Raspberry Pi
 
-1. Gå til og følge den [videon](https://www.youtube.com/watch?v=S9CYlpbSz-c) til å fysisk sette opp din Raspberry Pie.
+1. Gå til og følge den [videon](https://www.youtube.com/watch?v=S9CYlpbSz-c) eller linken https://www.youtube.com/watch?v=S9CYlpbSz-c til å fysisk sette opp din Raspberry Pie.
 
 2. Koble testatur, mus og skjerme til Raspbery pie.
 
@@ -14,7 +14,7 @@
 #### Installere Ubuntu
 
 1. Ta ut SD-kort fra Raspberry Pi og legge til Pc-en.
-2. Gå til og følge [videon](https://www.youtube.com/watch?v=jY98oY9orDo) til å installere Ubuntu i SD-kortet.
+2. Gå til og følge [videon](https://www.youtube.com/watch?v=jY98oY9orDo) https://www.youtube.com/watch?v=jY98oY9orDo eller linken til å installere Ubuntu i SD-kortet.
 3. Legge SD-kortet tilbake i Raspberry pi-en og startet det.
 4. Følge instruksjonen til å sette opp Raspberry pi-en og lage en bruker.
 
