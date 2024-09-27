@@ -24,3 +24,6 @@ d. Oppdater rettigheter
 ```bash
 FLUSH PRIVILEGES;
 ```
+
+
+Good jobb, da er du klar til [neste_steg](/Telefonkatalog/README_FIRST.md).
